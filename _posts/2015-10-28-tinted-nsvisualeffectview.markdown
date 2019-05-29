@@ -17,7 +17,7 @@ I'm trying to change the tint of the `NSVisualEffectView`. This is what I've com
 
 No science behind this method.
 
-{% highlight swift %}
+```swift
 import Cocoa
 
 @NSApplicationMain
@@ -71,8 +71,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
   }
 
 }
-
-{% endhighlight %}
+```
 
 ## Known Issues
 

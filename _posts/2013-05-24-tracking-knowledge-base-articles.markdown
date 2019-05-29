@@ -18,15 +18,15 @@ This means that when the knowledge base expands, I need a way to track how often
 
 The embedded knowledge base shows each article's title, clicking it will unfold the answer. Much like you see on countless other sites. The only thing I need is an overview of which of these titles get clicked most. Easy right? It _is_ actually. [Events](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide) make this ridiculously straight forward. Trigger an event and it will show up in Google Analytics, [even in real-time](http://techcrunch.com/2013/03/28/google-analytics-real-time-stats-now-feature-event-reports-device-breakdown-and-shortcuts/). This is what it looks like in Javascript.
 
-{% highlight javascript %}
+```javascript
 _gaq.push(['_trackEvent', 'Support', 'Open article_107729', 'article_107729']);
-{% endhighlight %}
+```
 
 Or if you prefer to make the call inline.
 
-{% highlight javascript %}
+```javascript
 <a href="#" onclick="_gaq.push(['_trackEvent', 'Support', 'Open article_107729', 'article_107729']);">Article title</a>
-{% endhighlight %}
+```
 
 These events fire every time someone opens (or closes; I log that separately) an article.
 

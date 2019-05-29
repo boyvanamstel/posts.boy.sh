@@ -74,13 +74,13 @@ workflow.
 All these features are available through [Reign's API](http://dangercove.com/reign/developers/),
 by accessing specific URLs.
 
-{% highlight bash %}
+```bash
 http://[ip/hostname]:[port]/playpause = Toggle play/pause
 http://[ip/hostname]:[port]/next = Next song
 http://[ip/hostname]:[port]/previous = Previous song
 http://[ip/hostname]:[port]/nowplaying = Returns the artist and title for the current track
 http://[ip/hostname]:[port]/status = Returns a JSON response with more song information (including a Spotify URI)
-{% endhighlight %}
+```
 
 ## The actual workflow (finally..)
 
@@ -131,7 +131,7 @@ store it, through Alfred.
 Zhao (from the Ruby template, remember) thought of this and provides a way to
 save and load settings. Here's what it looks like.
 
-{% highlight ruby %}
+```ruby
 Alfred.with_friendly_error do |alfred|
   
   # Save settings
@@ -142,7 +142,7 @@ Alfred.with_friendly_error do |alfred|
   puts settings['host']
 
 end
-{% endhighlight %}
+```
 
 ### Feedback
 
@@ -150,7 +150,7 @@ You can pop-up options in Alfred, while typing. Like "Copy 'Ozzy Osbourne -
 Crazy Train'" in the screenshot at the start of this article. This is called ```feedback```
 and frankly is quite cool.
 
-{% highlight ruby %}
+```ruby
 Alfred.with_friendly_error do |alfred|
   
   fb = alfred.feedback
@@ -164,7 +164,7 @@ Alfred.with_friendly_error do |alfred|
   })
 
 end
-{% endhighlight %}
+```
 
 After the user selects one of these options the assigned ```arg``` gets passed
 to the next item in the workflow.
