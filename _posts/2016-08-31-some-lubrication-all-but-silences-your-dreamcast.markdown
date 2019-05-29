@@ -15,13 +15,13 @@ I recently purchased a Japanese Dreamcast, after getting a Japanese Sega Saturn 
 
 Anyway, the downside of getting a Japanese Sega Dreamcast, is that it is loud. Extremely loud. Just listen to it:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yEnnDW5Of-c?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/yEnnDW5Of-c?rel=0" frameborder="0" allowfullscreen></iframe>
 
 After switching mine on for the first time I was convinced it was broken. PAL Dreamcast aren't exactly whisper quiet, but this is something else.
 
 Luckily there's a way to reduce this dramatically. This video by [Mark Fixes Stuff](https://www.youtube.com/channel/UCwq5WetL2mkT3dmiVjwl-kA) goes over the process of lubrication the gears in the Dreamcasts' GD-ROM drive. Disassembling the device takes some time, but it's a very straight forward process that pays off immensely.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JtSA6yamcMI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/JtSA6yamcMI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 At [the 18.48 second mark](https://youtu.be/JtSA6yamcMI?t=18m48s), you can hear the difference. Definitely worth the effort. If only my step-down converter (European 220V to Japanese 110V) could be silenced the same way... I currently use one half of a clothespin that's wedged between a radiator and the converter in such a way that it presses down on a specific part of the container, which reduces the buzzing to a minimum.
 
