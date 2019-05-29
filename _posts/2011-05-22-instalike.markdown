@@ -12,7 +12,7 @@ We had a Saturday Night of Awesome this weekend and came up with the idea to cre
 
 The iPhone App will be released as soon as Apple approves it.
 
-![Store](/images/media/instalike/store.png)
+![Store](/assets/blog/instalike/store.png)
 
 Description:
 

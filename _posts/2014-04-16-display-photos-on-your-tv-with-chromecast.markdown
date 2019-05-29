@@ -12,11 +12,11 @@ When I first got Google's gadget (it only just came out in The Netherlands), I w
 
 <!-- more -->
 
-![Chromecast](/images/media/chromecast/chromecast.jpg)
+![Chromecast](/assets/blog/chromecast/chromecast.jpg)
 
 That is, until I found this relatively hard to spot menu item in the Chrome browser extension. It allows you to choose what to stream; just the browser tab, the browser tab with audio or the entire screen! Obviously the last option makes it trivial to use your favorite photo app to display you holiday pictures on the TV in the living room. I can see this working for Keynote slides as well.
 
-![Stream your entire screen with Chromecast](/images/media/chromecast/chromecast-entirescreen.jpg)
+![Stream your entire screen with Chromecast](/assets/blog/chromecast/chromecast-entirescreen.jpg)
 
 For videos, I've been trying this extension called [Videostream for Google Chromecast](https://chrome.google.com/webstore/detail/videostream-for-google-ch/cnciopoikihiagdjbjpnocolokfelagl). It's not as user friendly as [Beamer](http://beamer-app.com), but works fine technically. It even supports subtitles. You might want to enable Caffeine though, to keep your Mac from falling asleep while playing.
 

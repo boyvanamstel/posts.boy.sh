@@ -14,7 +14,7 @@ boosters, by making (and sharing) 'workflows'.
 I recently made [a workflow that adds keyboard controls to Reign](http://dangercove.com/blog/2013/08/11/alfred-2-workflow-for-reign/),
 the Spotify remote that works on any device with a browser.
 
-![Reign for Spotify Alfred 2 Workflow](/images/media/alfred/reign.jpg)
+![Reign for Spotify Alfred 2 Workflow](/assets/blog/alfred/reign.jpg)
 
 As Alfred's own documentation can be somewhat lacking around workflows, I
 thought I'd share my experience. As such, this is by no means a definitive guide, 
@@ -24,7 +24,7 @@ just some things I learned in the process.
 
 ## Getting to know workflows
 
-![All the workflows I've setup](/images/media/alfred/workflows.png)
+![All the workflows I've setup](/assets/blog/alfred/workflows.png)
 
 While Alfred 2 if free, you'll need [the Powerpack](http://www.alfredapp.com/powerpack/) to be
 able to create and import workflows. So get that, if you didn't have it already.
@@ -40,7 +40,7 @@ on the canvas and connecting the dots. The solution I was after required
 some scripting though. This is where Alfred really shines, with support for
 Bash, Zsh, PHP, Ruby, Python, Perl and osascript (Apple Script).
 
-![Sublime Workflow, using Apple Script](/images/media/alfred/sublime-applescript.jpg)
+![Sublime Workflow, using Apple Script](/assets/blog/alfred/sublime-applescript.jpg)
 
 You can write scripts directly into the text area, but when things get a little more
 extensive it's probably easier to use a Bash script to invoke your script.
@@ -95,7 +95,7 @@ workflow and an empty canvas in Alfred.
 Start off by entering some information about your workflow. Double-click your
 workflow in the overview on the left to do so.
 
-![We'll use the Script Filter input](/images/media/alfred/workflowinfo.jpg)
+![We'll use the Script Filter input](/assets/blog/alfred/workflowinfo.jpg)
 
 ### Setup the workflow input
 
@@ -106,7 +106,7 @@ circled ```+``` in the top right corner and selecting ```Inputs → Script Filte
 
 Take a look at the Script Filter that activates the Reign for Spotify workflow.
 
-![Script Filter to trigger the workflow](/images/media/alfred/scriptfilter.jpg)
+![Script Filter to trigger the workflow](/assets/blog/alfred/scriptfilter.jpg)
 
 The most important field is the Keyword, which will trigger the scripts. I
 wanted the workflow to complete several tasks (e.g. play/next/previous) and
@@ -179,7 +179,7 @@ To share your workflow with others, right-click it and select ```Export```.
 This will save your workflow as an ```.alfredworkflow``` file. Others can add
 this to their setup by simply double-clicking it.
 
-![Export your workflow](/images/media/alfred/export.jpg)
+![Export your workflow](/assets/blog/alfred/export.jpg)
 
 Add your workflow to [the list](http://www.alfredforum.com/forum/3-share-your-workflows/)
 on Alfred's forums. Try to spot Reign's entry. Also consider putting it up on GitHub.

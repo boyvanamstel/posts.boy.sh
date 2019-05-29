@@ -12,13 +12,13 @@ This week I realised that while I'm quite familiar with the history of DOS, Wind
 
 <!-- more -->
 
-![Danger Cove](/images/media/nextstep/openstep-dangercove.png)
+![Danger Cove](/assets/blog/nextstep/openstep-dangercove.png)
 A screenshot of [DangerCove.com](http://dangercove.com). [OmniWeb](http://www.omnigroup.com/products/omniweb/) (like all browsers at the time) lacked support for stylesheets, or almost any of the features we're used to today. Enabling javascript caused every site I tried to crash.
 
-![Facebook &amp; Doom](/images/media/nextstep/openstep-facebook-doom.png)
+![Facebook &amp; Doom](/assets/blog/nextstep/openstep-facebook-doom.png)
 This screenshot shows Facebook, looking rather broken, and DOOM in the front. id Software used NeXT systems to create the famous first person shooter. Relying on the Objective-C based development environment to create most of the tools, like the level editor. Speaking of which..
 
-![Interface Builder](/images/media/nextstep/openstep-xcode-interfacebuilder.png)
+![Interface Builder](/assets/blog/nextstep/openstep-xcode-interfacebuilder.png)
 While Xcode 4.2 and InterfaceBuilder 4.2 were released almost two decades apart, they feel strikingly similar; dragging and dropping components and attaching their outlets to 'First Responders', it's all there.
 
 EDIT: Over at [Hacker News](http://news.ycombinator.com/item?id=3405927), [Zev](http://news.ycombinator.com/user?id=Zev) provided [a link to a video](http://cdn.secondconf.com/2010/videos/SecondConf-GeneBacklin-17425.mp4) of Gene Backlin giving a talk at [SecondConf](http://www.secondconf.com/videos/) last year, titled 'NeXT to X'. About 21 minutes into the video Gene walks through a screenshot supported comparison of creating the exact same app using development environments that were created 20 years apart.

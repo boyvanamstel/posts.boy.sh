@@ -28,6 +28,6 @@ If it throws an error, this means it might need to install some additional libra
 
 After it starts it’ll prompt you for a nickname, pick something original and that’s it. Just start typing  .
 
-![Dropbox chat](/images/media/dropboxchat/dropboxchat1.png)
+![Dropbox chat](/assets/blog/dropboxchat/dropboxchat1.png)
 
-![Dropbox chat](/images/media/dropboxchat/dropboxchat2.png)
+![Dropbox chat](/assets/blog/dropboxchat/dropboxchat2.png)

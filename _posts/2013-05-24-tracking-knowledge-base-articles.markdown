@@ -14,7 +14,7 @@ I use [Uservoice](http://uservoice.com) to manage tickets for Porthole, AirVLC a
 
 This means that when the knowledge base expands, I need a way to track how often each article is read. Seeing the amount of support calls drop (good), but not knowing when everybody encounters the same problem and silently discards your app (pretty bad) is a _very_ uncomfortable feeling. Trust me. Uservoice has some built-in analytics that provide general statistics, but because I chose to [show knowledge base articles on the product pages](http://getporthole.coms/upport) as well, I need something extra.
 
-![Click on the title to unfold the full article](/images/media/uservoice/porthole-support.png)
+![Click on the title to unfold the full article](/assets/blog/uservoice/porthole-support.png)
 
 The embedded knowledge base shows each article's title, clicking it will unfold the answer. Much like you see on countless other sites. The only thing I need is an overview of which of these titles get clicked most. Easy right? It _is_ actually. [Events](https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide) make this ridiculously straight forward. Trigger an event and it will show up in Google Analytics, [even in real-time](http://techcrunch.com/2013/03/28/google-analytics-real-time-stats-now-feature-event-reports-device-breakdown-and-shortcuts/). This is what it looks like in Javascript.
 
@@ -30,6 +30,6 @@ Or if you prefer to make the call inline.
 
 These events fire every time someone opens (or closes; I log that separately) an article.
 
-![Overview of the  most popular knowledge base article](/images/media/uservoice/porthole-support-overview.jpg)
+![Overview of the  most popular knowledge base article](/assets/blog/uservoice/porthole-support-overview.jpg)
 
 What I end up with is a nice overview of which topics get consulted the most! This still doesn't beat communicating via email, but it makes sure that I can at least determine where to focus my attention (and sleep at night).

@@ -18,31 +18,31 @@ It’s been available for a while in the Script Gallery, but I haven’t gotten 
 
 First login to your Google Docs environment, [docs.google.com](http://docs.google.com) and Google Apps both work fine. After that, choose to create a new Form.
 
-![New form](/images/media/ttresponds/newform.png)
+![New form](/assets/blog/ttresponds/newform.png)
 
 This will present you with a pop-up that allows you to customize the fields. For basis functionality it should at least contain a name field first and an email address second. After that you can add anything you want.
 
-![Setup form](/images/media/ttresponds/setupform.png)
+![Setup form](/assets/blog/ttresponds/setupform.png)
 
 Clicking save will send you to the Spreadsheet, setup to receive form submissions. The next step is to add TTResponds. You can do so by clicking ‘Tools’ and then ‘Script gallery…’.
 
-![Script gallery](/images/media/ttresponds/scriptgallery.png)
+![Script gallery](/assets/blog/ttresponds/scriptgallery.png)
 
 Search for ‘TTResponds’ and click install.
 
-![Find TTResponds](/images/media/ttresponds/findttresponds.png)
+![Find TTResponds](/assets/blog/ttresponds/findttresponds.png)
 
 Authorize the script to read your Spreadsheet and send out emails.
 
-![Accept](/images/media/ttresponds/accept.png)
+![Accept](/assets/blog/ttresponds/accept.png)
 
 A new menu item called ‘TTResponds’ just appeared. Click it and select ‘Create config’. This should add an extra sheet called ‘TTRespondsConfig’, you can change the properties to provide a more relevant response. After you’re done, make sure all ‘Triggers’ are setup correctly by clicking ‘Tools’ and after that ‘Script editor…’.
 
-![Script editor](/images/media/ttresponds/scripteditor.png)
+![Script editor](/assets/blog/ttresponds/scripteditor.png)
 
 In the pop-up select ‘Triggers’ and then ‘All your triggers…’.
 
-![Triggers](/images/media/ttresponds/triggers.png)
+![Triggers](/assets/blog/ttresponds/triggers.png)
 
 Make sure your setup looks like the image above. If it doesn’t, click ‘Add a new trigger’ and set it to ‘onFormSubmit’, ‘From spreadsheet’ and ‘On form submit’. That’s it! Fill out your own form and you’ll receive a confirmation automatically!
 
@@ -50,7 +50,7 @@ Make sure your setup looks like the image above. If it doesn’t, click ‘Add a
 
 Per default the script sends text-only emails. You can change this to HTML email pretty easily (I’ll probably add it as an option in an update). First open the script editor again and navigate to line 119.
 
-![HTML email](/images/media/ttresponds/htmlemail.png)
+![HTML email](/assets/blog/ttresponds/htmlemail.png)
 
 You’ll see that is says:
 

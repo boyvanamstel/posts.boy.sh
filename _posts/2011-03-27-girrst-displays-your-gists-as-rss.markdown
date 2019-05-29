@@ -12,7 +12,7 @@ Sharing code among co-workers and friends is quite easy using various ‘code sn
 
 <!-- more -->
 
-![App Engine](/images/media/girrst/appengine.png)
+![App Engine](/assets/blog/girrst/appengine.png)
 
 Using Python and App Engine I threw together a script that will take your GitHub username and turn all your Gists into a convenient RSS feed. You can then use the feed to include it anywhere, like your favorite RSS reader or your blog.
 

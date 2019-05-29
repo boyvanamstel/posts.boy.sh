@@ -19,7 +19,7 @@ Step 1 might seem unnecessary as Delicious’ API only requires authentication t
 
 I continued to setup a project in rails, init a Git repo and fill my Gemfile with the gems required for using omniauth plus some extra:
 
-![Gems](/images/media/yahoodelicious/gems.png)
+![Gems](/assets/blog/yahoodelicious/gems.png)
 
 Touch omniauth.rb in config/initializers and the basics for using the Yahoo OAuth provider. Yahoo isn’t supported by default, so we’ll be creating our own strategy later in lib/oauth-strategies/yahoo.rb.
 
@@ -35,7 +35,7 @@ Touch omniauth.rb in config/initializers and the basics for using the Yahoo OAut
 
 Visit [Yahoo’s developer page](http://developer.apps.yahoo.com/projects) and create a new project. Choose standard and fill out the rest of the form to match your application. Pay extra attention to Application Domain, enter a url that’s accessible to the outside world. You’ll see why when you’ve completed the form. I’m building a Delicious app so I specified that I require extra user data and choose to have read/write access to Delicious.
 
-![Yahoo Projects](/images/media/yahoodelicious/YahooProjects.png)
+![Yahoo Projects](/assets/blog/yahoodelicious/YahooProjects.png)
 
 When you press the Get API Key button, you’re required to upload a file to your server, accessible via the url you’ve just entered under Application Domain. There are three buttons, one of which falsely suggests that you can skip this step. Pressing it will only tell you that you have to do it anyway.. nice. This still gave me the impression that this the whole Application Domain thing was optional, though. Mistake.. I’ll tell you why in a minute.
 
@@ -43,7 +43,7 @@ Alright, so we’ve completed the form and are presented with our consumer key a
 
 Create the folder lib/oauth-strategies and touch yahoo.rb. I tried the default OAuth implementation, didn’t work. After some research on GitHub. I found that there was already a [pull request](http://developer.apps.yahoo.com/projects) waiting with a Yahoo OAuth strategy, neato. Paste [the code](https://github.com/xxx/omniauth/raw/490fb8334c0f45310b669d791925bcd32edb175c/oa-oauth/lib/omniauth/strategies/yahoo.rb) into your yahoo.rb strategy file. At this point I was pretty confident that this wouldn’t be a hassle after all. Run bundle install and start your server. Now visit the yahoo auth url at [http://localhost:3000/auth/yahoo](http://localhost:3000/auth/yahoo). The first thing you’ll run into happens when you’re an oldskool Delicious user. This means you’re account is not yet hooked up to your Yahoo account and you’ll get an error saying that you’re login is incorrect. After merging my Delicious and Yahoo accounts, I hoped I had fixed the issue and tried again. Aaaand BAM: “401 Forbidden”. Stumped me at first, but after checking the full response Yahoo told me this: “Custom port is not allowed or the host is not registered with this consumer key”. So I thought I was clever and started the WEBRick server on port 80. No effect, same error.
 
-![Forbidden](/images/media/yahoodelicious/Forbidden.png)
+![Forbidden](/assets/blog/yahoodelicious/Forbidden.png)
 
 This is when I remembered the Application Domain field.. Yahoo apparently does not like you developing on your localhost, while every other OAuth provider works fine, fuck. So, I setup the whole thing on my server and ran the thing again. Success! It redirects to Yahoo and asks for permission. The callback doesn’t go too well, though. Use this guide to add the route to a custom callback, even though it’s not working yet.
 

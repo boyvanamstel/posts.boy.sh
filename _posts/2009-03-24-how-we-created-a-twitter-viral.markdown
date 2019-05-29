@@ -8,7 +8,7 @@ categories: [web apps, inpiration, marketing, virals, twitter]
 
 A few weeks ago Barry Borsboom and I had a funny idea for a twitter mash-up. We would basically measure your Twitter popularity in the form of a giant penis. Better know as the e-Penis. In order to see if we really created something to talk about, Seth Godin would call this the sneeze-factor, we registered an url: [www.epenis.nl](http://www.epenis.nl) and we uploaded our e-Penis app with a few 'share-this' buttons. The first button to post it on Twitter, and the second one to Digg it. Would people share this site with their friends? How fast would it spread? All question a marketer would like to know when creating a viral marketing campaign right?
 
-![](/images/media/epenis/epenis1.png)
+![](/assets/blog/epenis/epenis1.png)
 
 <!-- more -->
 
@@ -18,7 +18,7 @@ By the way, we were still hosting the website on my server, at my parents' home.
 
 At monday around 4 pm, CET, we finally managed to get the word Penis into the Twitter trending topics. A huge success, because now people twittered about why the word penis was in this list. Generating even more traffic to our site when they found out we were causing it.
 
-![](/images/media/epenis/twitter_search1.png)
+![](/assets/blog/epenis/twitter_search1.png)
 
 Some people saw a connection between Spring Break, which probaly helped accepting the fact the word penis was a part of the list. Twitter however didn't agree with that. After a few hours we saw some messages from people who were complaining about their twits disappearing, not much later penis wasn't trending anymore. Did Twitter screw with us here? We can't be sure. But the damage had already been done, we had spread to the American continent. A couple of big American Twitter users like [@MrsKutcher](http://twitter.com/mrskutcher), that's Demi Moore (257,150 followers) posted about later in the evening, that really generated lots of traffic and added a large amount of females to our users, who seemed to have smaller e-peni. Which actually contributed to the credibility of the website.
 
@@ -36,7 +36,7 @@ And some stuff that made us laugh:
 
 '[@Vatikan](http://twitter.com/Vatikan/statuses/1377525861): Scheiße, @satan 's ePenis ist länger als meiner http://www.epenis.nl/'
 
-![](/images/media/epenis/epenis_analytics1.png)
+![](/assets/blog/epenis/epenis_analytics1.png)
 
 At this moment we're trying to figure out what the hell we're are going to do with it. To conclude, here is a list of the things we learned:
 

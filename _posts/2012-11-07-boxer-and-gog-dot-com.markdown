@@ -10,4 +10,4 @@ The EA games discount that [gog.com](http://gog.com) ran a little while ago allo
 
 Boxer makes it super easy to bundle old DOS games into neat .app packages; ready to play with the click of a button. Bringing that to gog.com means I can simply download the games and start playing. Awesome!
 
-![Boxer](/images/media/boxer/boxer.png)
+![Boxer](/assets/blog/boxer/boxer.png)

@@ -8,7 +8,7 @@ categories: [games, kickstarter]
 
 By random coincidence both the Ouya and Oculus Rift arrived at my doorstep this week. One day after each other. The Ouya on Wednesday, the Oculus on Thursday. I backed the [Ouya kickstarter project](http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console) nearly a year ago.
 
-![Unpacking the Ouya](/images/media/ouya/ouya-arrived.jpg)
+![Unpacking the Ouya](/assets/blog/ouya/ouya-arrived.jpg)
 
 <!-- more -->
 

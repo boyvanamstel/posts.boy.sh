@@ -23,7 +23,7 @@ or clone an existing wp-content folder into the WordPress folder
 
 Adding new developers to your project is as easy as allowing them access to the Git repo and running wpprojectcreator. If  you clone an existing project, the only things you’ll have to do is run the python script, import the dump using setup.php and you’re ready to work on the website as if it were live.
 
-![Wordpress Project Creator](/images/media/wpprojectcreator/wpprojectcreator.png)
+![Wordpress Project Creator](/assets/blog/wpprojectcreator/wpprojectcreator.png)
 
 I released it on GitHub so everyone can give it a go. Or everyone.. at least everyone running OSX, Linux or 32bit Windows. Git on 64bit Windows can’t be installed in such a way that it’s accessible from the command line, which is required by wpprojectcreator. Be sure to read the README  .
 
