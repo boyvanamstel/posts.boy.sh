@@ -6,7 +6,7 @@ comments: true
 categories: [cloud, programming, google, javascript]
 ---
 
-##Introduction
+## Introduction
 
 TTResponds is a Google Apps Script that allows you to automatically send a confirmation to people who’ve filled out a Google Form.
 
