@@ -18,33 +18,47 @@ Most of my subscriptions remain Apple oriented, but in comparison to last year, 
 
 ### Apple & Tech
 
-* [Release Notes](http://releasenotes.tv/): "Release Notes is a weekly podcast about the business of Mac and iOS indie software development. We discuss inspiration, design, trends, and tools — everything but the code."
-  <div>I love listening to Charles Perry and Joe Cieplinski talking about much of the things I go through as well, as a software indie. Probably my favorite show at the moment.</div>
+#### [Release Notes](http://releasenotes.tv/)
+> Release Notes is a weekly podcast about the business of Mac and iOS indie software development. We discuss inspiration, design, trends, and tools — everything but the code.
 
-* [Build Phase](http://podcasts.thoughtbot.com/buildphase): "Build Phase is a weekly technical podcast discussing iOS development and design. Hosted by iOS developers Mark Adams and Gordon Fontenot; they discuss code, design, and creating great iOS apps."
-  <div>A bit more technically in-depth than most shows, which I like a lot. My only critique is that they focus primarily on iOS, while I spend most of my time on OS X apps.</div>
+I love listening to Charles Perry and Joe Cieplinski talking about much of the things I go through as well, as a software indie. Probably my favorite show at the moment.
 
-* [Accidental Tech](http://atp.fm/): "Three nerds discussing tech and loosely related matters. An offshoot from Neutral, our car show."
-  <div>General Apple and tech stuff, hosted by Marco Arment, Casey Liss and John Siracusa.</div>
+#### [Build Phase](http://podcasts.thoughtbot.com/buildphase)
+> Build Phase is a weekly technical podcast discussing iOS development and design. Hosted by iOS developers Mark Adams and Gordon Fontenot; they discuss code, design, and creating great iOS apps.
+
+A bit more technically in-depth than most shows, which I like a lot. My only critique is that they focus primarily on iOS, while I spend most of my time on OS X apps.
+
+#### [Accidental Tech](http://atp.fm/)
+> Three nerds discussing tech and loosely related matters. An offshoot from Neutral, our car show.
+
+General Apple and tech stuff, hosted by Marco Arment, Casey Liss and John Siracusa.
 
 ### Games
 
-* [All Gen Gamers](http://www.allgengamers.com/): "We take pride in ourselves as video game enthusiasts and collectors of the hobby."
-  <div>Very enjoyable show about being a gamer, hosted by Pete Dorr, Gamester81, Jason Heine and MetalJesusRocks. I love the conversations about retro games and consoles.</div>
+#### [All Gen Gamers](http://www.allgengamers.com/)
+> We take pride in ourselves as video game enthusiasts and collectors of the hobby.
 
-* [Video Game Hangover](http://vghangover.com/): "Video Game Hangover is podcast by three guys who love--and occasionally overindulge in--gaming."
-  <div>Randy Dickinson, D.J. Ross and Paul Sandhu discuss the games they play and games that come out.</div>
+Very enjoyable show about being a gamer, hosted by Pete Dorr, Gamester81, Jason Heine and MetalJesusRocks. I love the conversations about retro games and consoles.
 
-* [Player One Podcast](http://www.playeronepodcast.com/): "Join ex-game journalists Chris Johnston, Phil Theobald, Greg Sewart and their buddy Mike Phillips as they talk about console/portable/PC games, babies, and the meaning of life."
+#### [Video Game Hangover](http://vghangover.com/)
+> Video Game Hangover is podcast by three guys who love--and occasionally overindulge in--gaming.
+
+Randy Dickinson, D.J. Ross and Paul Sandhu discuss the games they play and games that come out.
+
+#### [Player One Podcast](http://www.playeronepodcast.com/)
+> Join ex-game journalists Chris Johnston, Phil Theobald, Greg Sewart and their buddy Mike Phillips as they talk about console/portable/PC games, babies, and the meaning of life.
 
 ## Old Favorites
 
-* [Core Intuition](http://www.coreint.org/): "A podcast about indie software development for the Mac, iOS and other Apple technologies"
-  <div>Daniel Jalkut and Manton Reece have both been working in the Apple ecosystem for years and use the experience to comment on new developments and being an indie.</div>
+#### [Core Intuition](http://www.coreint.org/)
+> A podcast about indie software development for the Mac, iOS and other Apple technologies
 
-* [Developing Perspective](http://developingperspective.com/): "A podcast discussing news of note in iOS Development, Apple and the like."
-  <div>David Smith ([@_DavidSmith](https://twitter.com/_DavidSmith)) talks about his experiences as a independent iOS and Mac developer. I like how it covers the things he comes across in his daily activities. It's always around 15 minutes, making it super convenient to listen to when you have a moment to spare.</div>
-  <div>David actually did [a show about _his_ favorite podcasts](http://developingperspective.com/2014/06/26/0/) a little while ago. Definitely worth listening to. Links to the shows are in the show notes.</div>
+Daniel Jalkut and Manton Reece have both been working in the Apple ecosystem for years and use the experience to comment on new developments and being an indie.
+
+#### [Developing Perspective](http://developingperspective.com/)
+> A podcast discussing news of note in iOS Development, Apple and the like.
+
+[David Smith](https://twitter.com/_DavidSmith)) talks about his experiences as a independent iOS and Mac developer. I like how it covers the things he comes across in his daily activities. It's always around 15 minutes, making it super convenient to listen to when you have a moment to spare. David actually did [a show about _his_ favorite podcasts](http://developingperspective.com/2014/06/26/0/) a little while ago. Definitely worth listening to. Links to the shows are in the show notes.
   
 ## Skipping Episodes
 
