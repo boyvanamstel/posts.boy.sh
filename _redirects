@@ -4,7 +4,7 @@
 
 /knows/*                                                                                  /:splat                                                                             301!
 
-/:year/:month/:slug*                                                                      /:slug                                                                              
+/:year/:month/:slug                                                                       /:slug                                                                              301
 
 https://blog.boyvanamstel.nl/*                                                            https://posts.boy.sh/:splat                                                         301!
 https://blog.boyvanamstel.com/*                                                           https://posts.boy.sh/:splat                                                         301!
