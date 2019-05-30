@@ -22,8 +22,8 @@ permalink: /:title
 url: "https://posts.boy.sh" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boyvanamstel 
 github_username: boyvanamstel 
-microdotblog_username: boyvanamstel
-google_analytics: #UA-7720147-29
+#microdotblog_username: boyvanamstel
+#google_analytics: UA-7720147-29
 
 # Build settings
 markdown: kramdown

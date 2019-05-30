@@ -1,9 +1,10 @@
-/knows/how-to-install-and-use-pip-without-sudo*                                           /install-and-use-pip-without-sudo                                                   301!
-/knows/you-might-want-to-track-where-someone-downloaded-your-mac-app*                     /track-where-someone-downloaded-your-mac-app                                        301!
-/knows/you-might-need-to-disable-layer-backing-to-work-with-nsvisualeffectviews-in-ib*    /disable-layer-backing-to-work-with-nsvisualeffectviews-in-ib                       301!
+/knows/how-to-install-and-use-pip-without-sudo*                                           /install-and-use-pip-without-sudo:splat                                             301!
+/knows/you-might-want-to-track-where-someone-downloaded-your-mac-app*                     /track-where-someone-downloaded-your-mac-app:splat                                  301!
+/knows/you-might-need-to-disable-layer-backing-to-work-with-nsvisualeffectviews-in-ib*    /disable-layer-backing-to-work-with-nsvisualeffectviews-in-ib:splat                 301!
 
 /knows/*                                                                                  /:splat                                                                             301!
 
+/:year/:month/:slug*                                                                      /:slug:splat                                                                        301
 
 https://blog.boyvanamstel.nl/*                                                            https://posts.boy.sh/:splat                                                         301!
 https://blog.boyvanamstel.com/*                                                           https://posts.boy.sh/:splat                                                         301!
