@@ -16,7 +16,7 @@ The clock is one of those distractions for me:
 This gets worse when I have appointments throughout the day. The example is a bit extreme, but you catch my drift.
 
 ## Hiding time
-As an experiment, I removed every time indicator from my screen six months ago. The effects are noticeable: it’s much easier to just sit, work and not care about how the day is progressing. This lack of attachment in turn makes it easier to lose myself in what I’m doing, thus comfortably achieving more.
+As an experiment, I removed every time indicator from my screen six months ago. The effects are noticeable: I can just sit, work and not care about how the day is progressing. This lack of attachment in turn makes it easier to lose myself in what I’m doing, thus comfortably achieving more.
 
 There are downsides: it also stops me from getting up and do basic things like drink water or getting some fresh air. I work from home and if I’m not careful I skip lunch and scramble to make something for diner because I forgot to buy groceries.
 
