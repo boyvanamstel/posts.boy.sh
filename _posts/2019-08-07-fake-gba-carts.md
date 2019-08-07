@@ -2,9 +2,9 @@
 layout: post
 title: Fake GBA carts
 date: 2019-08-07
----
 
-I'm selling all my Game Boy Advance carts. While taking pictures I noticed two cartridges looking a little off. The logos on both Metroid Fusion (AGB-AMTP-EUR) and Final Fantasy VI Advance (AGB-BZ6P-EUR) seemed fuzzy. 
+---
+I'm selling all my Game Boy Advance carts. While taking pictures I noticed two cartridges looking a little off. The logos on both Metroid Fusion (AGB-AMTP-EUR) and Final Fantasy VI Advance (AGB-BZ6P-EUR) seemed fuzzy.
 
 ![A picture of Metroid Fusion for GBA showing that the logo on the cart is fuzzy](/assets/blog/metroid-fusion-front.jpeg)
 ![A close-up picture of Metroid Fusion for GBA showing that the logo on the cart is fuzzy](/assets/blog/metroid-fusion-fuzzy.jpeg)
@@ -24,6 +24,6 @@ This is the inside of the Metroid Fusion cart. The board is dirty, the fonts and
 
 ![A close-up picture of the circuit board of Final Fantasy VI Advance for GBA showing that it's fake](/assets/blog/ff6-print.jpeg)
 
-The Final Fantasy VI Advance cart is less dramatic, but a reproduction nonetheless. The Nintendo logo looks awfull.
+The Final Fantasy VI Advance cart is less dramatic, but a reproduction nonetheless. The Nintendo logo looks awful.
 
-I haven't completely decided what I'll do with these. Either I'll throw them out, or I'll drop them off at the local thrift store. Trashing them means somebody else won't be able to buy (or sell) them anymore.
+I haven't decided what I'll do with these. Either I'll throw them out, or I'll drop them off at the local thrift store. Trashing them means somebody else won't be able to buy (or sell) them anymore.
