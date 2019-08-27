@@ -67,3 +67,9 @@ defaults:
       path: ""
     values:
       image: /assets/img/avatar.jpg
+
+minima:
+  social_links:
+    twitter: boyvanamstel
+    github: boyvanamstel
+    rss: true
