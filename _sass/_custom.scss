@@ -107,7 +107,7 @@ div.highlight {
 
 .post-content {
   p, img, iframe {
-    margin-bottom: 1.5em;
+    margin-bottom: $spacing-unit / 2;
   }
   p img {
     width: 100%;
