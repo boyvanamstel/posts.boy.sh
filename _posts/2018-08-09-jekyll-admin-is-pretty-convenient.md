@@ -24,7 +24,7 @@ Today I came across [jekyll-admin](https://github.com/jekyll/jekyll-admin).
 
 ![The jekyll-admin post editing interface](/assets/blog/jekyll-admin-screenshot.jpg)
 
-## Benefits
+### Benefits
 
 It takes away many of the manual labor involved in creating a new post and introduces an easy to use interface to write content. I'm using it to jot down this entry and I could easily get used to this.
 
@@ -34,7 +34,7 @@ It takes away many of the manual labor involved in creating a new post and intro
 
 Small improvements, but I welcome anything that lowers the threshold to start writing. The installation takes about ten seconds:
 
-## Installation
+### Installation
 
 1. Add the following to your site's `Gemfile`:
 
@@ -42,7 +42,7 @@ Small improvements, but I welcome anything that lowers the threshold to start wr
 
 2. Run `bundle install`
 
-## Downsides
+### Downsides
 
 Vim shortcuts are not available, obviously. Maybe I'll end up just using the UI to create posts, then do the writing in a terminal window. 
 
@@ -69,6 +69,6 @@ defaults:
 
 ![jekyll-admin does not automatically set the proper metatags](/assets/blog/jekyll-admin-metatags.jpg)
 
-## Conclusion
+### Conclusion
 
 This is hardly a thorough review; all I did is write this signle post. The added convenience is undeniable, though. I'm positive jekyll-admin will help me to post more often. *Famous last words.*

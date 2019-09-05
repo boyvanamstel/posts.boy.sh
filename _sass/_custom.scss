@@ -127,14 +127,14 @@ div.highlight {
     border-bottom: #e8e8e8 1px solid;
   }
 
-  & > h3 {
-    margin: 0;
+  & > h2 {
+    margin: 0 0 15px 0;
     padding: 0;
   }
 }
 
 .post-content {
-  p, img {
+  p, img, iframe {
     margin-bottom: 1.5em;
   }
   p img {

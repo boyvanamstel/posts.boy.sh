@@ -22,7 +22,7 @@ just some things I learned in the process.
 
 <!-- more -->
 
-## Getting to know workflows
+### Getting to know workflows
 
 ![All the workflows I've setup](/assets/blog/alfred/workflows.png)
 
@@ -45,7 +45,7 @@ Bash, Zsh, PHP, Ruby, Python, Perl and osascript (Apple Script).
 You can write scripts directly into the text area, but when things get a little more
 extensive it's probably easier to use a Bash script to invoke your script.
 
-## Using a template project
+### Using a template project
 
 I chose Ruby because I wanted to take advantage of its network and JSON
 parsing capabilities. Some of these features are contained in gems that might not available on
@@ -60,7 +60,7 @@ workflow and actually streamlines the development process a great deal. I won't
 go over the entire setup process here. Zhao has explained pretty much all of it
 in the Quick Start Guide section on the GitHub page mentioned before.
 
-## Goal
+### Goal
 
 To put this walkthrough in some perspective, these were the goals I had for the
 workflow.
@@ -82,12 +82,12 @@ http://[ip/hostname]:[port]/nowplaying = Returns the artist and title for the cu
 http://[ip/hostname]:[port]/status = Returns a JSON response with more song information (including a Spotify URI)
 ```
 
-## The actual workflow (finally..)
+### The actual workflow (finally..)
 
 Alright, with all the context in place, let's get to work on the workflow! You
 can [get the full source for this workflow on GitHub](https://github.com/DangerCove/reign-alfred2-workflow).
 
-### Edit your workflow description
+#### Edit your workflow description
 
 After following the template setup, you should have a folder containing your
 workflow and an empty canvas in Alfred.
@@ -97,7 +97,7 @@ workflow in the overview on the left to do so.
 
 ![We'll use the Script Filter input](/assets/blog/alfred/workflowinfo.jpg)
 
-### Setup the workflow input
+#### Setup the workflow input
 
 To activate the workflow I wanted to use the keyword ```reign```. As soon as I
 type that into Alfred, a script should run. Alfred provides a component called
@@ -121,7 +121,7 @@ In this article I want stay away from the code as much as possible (it's
 available on GitHub if you want it), but I want to point out
 two things that cost me some time to learn.
 
-### Storing settings
+#### Storing settings
 
 For my workflow to work, I need to know the host that will receive the commands
 via HTTP. I could add a script to discover hosts using Bonjour (like Reign does),
@@ -144,7 +144,7 @@ Alfred.with_friendly_error do |alfred|
 end
 ```
 
-### Feedback
+#### Feedback
 
 You can pop-up options in Alfred, while typing. Like "Copy 'Ozzy Osbourne -
 Crazy Train'" in the screenshot at the start of this article. This is called ```feedback```
@@ -173,7 +173,7 @@ Caveat: one thing I noticed was that when you pass user input in the ```arg```
 it might not 'be there' instantly if the user presses return too soon. Still
 looking for a way around that.
 
-## Sharing
+### Sharing
 
 To share your workflow with others, right-click it and select ```Export```.
 This will save your workflow as an ```.alfredworkflow``` file. Others can add
@@ -184,7 +184,7 @@ this to their setup by simply double-clicking it.
 Add your workflow to [the list](http://www.alfredforum.com/forum/3-share-your-workflows/)
 on Alfred's forums. Try to spot Reign's entry. Also consider putting it up on GitHub.
 
-## Updating
+### Updating
 
 While you continue to work on your workflow, you'll want people to be able to update to
 the latest version. There's currently no official way to go about this, but

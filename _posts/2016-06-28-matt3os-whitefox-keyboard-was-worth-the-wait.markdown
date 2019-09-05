@@ -14,7 +14,7 @@ After much anticipation, I'm delighted to be able to type this article on the Wh
 
 ![The Whitefox keyboard](/assets/blog/IMG_2674.jpg)
 
-## Packaging
+### Packaging
 
 The packaging and setup is special. It came in an almost completely white box, with a small note inside. It's mentioned a few times that this is the first batch of Whitefox keyboards and that more are on the way.
 
@@ -28,7 +28,7 @@ Matt3o signed the bottom of the board, like an artist signing a piece of art.
 
 ![Matt3o's signature on the bottom of the keyboard](/assets/blog/IMG_2671.jpg)
 
-## Setup
+### Setup
 
 I got a little confused after hooking it up, because some output didn't match up with the label on the keycaps; the backspace key didn't remove anything, but added a '\' on the screen. Luckily this was easily fixed using [Input Club's Configurator](https://input.club/configurator-whitefox).
 
@@ -36,7 +36,7 @@ The Whitefox keyboard comes in a variety of layouts: Vanilla, ISO, Aria, Winkeyl
 
 ![Input Club's Configurator](/assets/blog/configuration.png)
 
-## Typing
+### Typing
 
 The typing experience is excellent. I opted for Cherry MX Blue switches, which means they're loud, but delicious to type on. The aluminium body is sturdy and doesn't flex, no  matter how hard you slam the keys. You can actually hear the key hitting metal when bottoming out a key a little too rough. It feels industrial and built to last.
 
@@ -44,7 +44,7 @@ If you plan on typing in a more crowded environment, I would suggest going with 
 
 [The keyboard has a hand-built touch](http://matt3o.com/whitefox-the-making-of/). Mine isn't perfect. There's a dent in the aluminium on the bottom right corner and one of the screws isn't as tight as it should be. Nothing I can't live with, but something to consider if you decide on getting one.
 
-## Conclusion
+### Conclusion
 
 Getting one is not that easy, though. [The Massdrop](https://www.massdrop.com/buy/the-whitefox-keyboard) is over and while [Input Club](https://input.club/whitefox) lists the keyboard on its website, you can only signup to be notified when they're available again.
 

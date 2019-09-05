@@ -24,7 +24,7 @@ That sounds a lot more complicated than it is. I've put [a sample project](https
 
 ![A few lines of code to read the contents of QuarantineEventsV2](/assets/blog/Screen_Shot_2016-05-03_at_11.34.12-web.jpg)
 
-## Full use case
+### Full use case
 
 Let's say we're building a Mac app and we just ran a marketing campaign through Facebook and send out a news letter. We've setup analytics in our Mac app in such a way that we can track app opens and some buttons clicks–the 'Buy Now' button specifically. We use specific landing pages (or URL parameters) that link to our website from the Facebook post and news letter.
 

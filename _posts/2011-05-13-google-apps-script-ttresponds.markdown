@@ -6,7 +6,7 @@ comments: true
 categories: [cloud, programming, google, javascript]
 ---
 
-## Introduction
+### Introduction
 
 TTResponds is a Google Apps Script that allows you to automatically send a confirmation to people who’ve filled out a Google Form.
 
@@ -14,7 +14,7 @@ It’s been available for a while in the Script Gallery, but I haven’t gotten 
 
 <!-- more -->
 
-## Installing
+### Installing
 
 First login to your Google Docs environment, [docs.google.com](http://docs.google.com) and Google Apps both work fine. After that, choose to create a new Form.
 
@@ -46,7 +46,7 @@ In the pop-up select ‘Triggers’ and then ‘All your triggers…’.
 
 Make sure your setup looks like the image above. If it doesn’t, click ‘Add a new trigger’ and set it to ‘onFormSubmit’, ‘From spreadsheet’ and ‘On form submit’. That’s it! Fill out your own form and you’ll receive a confirmation automatically!
 
-## HTML Email
+### HTML Email
 
 Per default the script sends text-only emails. You can change this to HTML email pretty easily (I’ll probably add it as an option in an update). First open the script editor again and navigate to line 119.
 
@@ -62,10 +62,10 @@ Change it to this:
 
 The script will now send the confirmation as HTML, allowing you to send a fancier response  .
 
-## Collaborating
+### Collaborating
 
 I’ve created [a GitHub repo for TTResponds](https://github.com/boyvanamstel/TTResponds). If you’re adding features, or fixing bugs, please fork the project and send me a pull request.
 
-## Let me know
+### Let me know
 
 It would be awesome if you let me know if you use and/or like the script through the comments, thanks!

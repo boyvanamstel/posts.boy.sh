@@ -17,7 +17,7 @@ Time Machine is a great way to store incremental backups of your Mac. It's prett
 
 I have several backup disks and was using them rather inefficiently, that's why I wanted to move my Time Machine partition to a new disk. After trying several ways to make this happen, I've come to the conclusion that using Disk Utility is the only reliable method. But first, let's go over **every method I've tried that didn't work**:
 
-## Finder _(takes a long time, increases size)_
+### Finder _(takes a long time, increases size)_
 
 [Apple actually recommends using Finder to move or copy a Time Machine backup](https://support.apple.com/en-us/HT202380), by simply dragging the `Backups.backupdb` to another drive. These are the steps they tell you to take:
 
@@ -29,7 +29,7 @@ I have several backup disks and was using them rather inefficiently, that's why 
 
 Things will go differently than you might expect on step 4 though. First, it'll take many hours before Finder actually starts copying; it spends this time preparing to copy. And while it's copying you'll notice that the copy will grow a lot bigger than the original backup. 
 
-## Terminal commands _(increases size)_
+### Terminal commands _(increases size)_
 
 1. Open a Terminal window (`/Applications/Utilities/Terminal.app`).
 2. Type in the following command (without the $ sign and replace [Time Machine Disk] and [Destination Disk] with the relevant paths in your setup):
@@ -42,17 +42,17 @@ Funny story: I actually spent several hours copying files using `cp -r` instead 
 
 > Always copy folders and packages using `cp -a`.<br>– Me, after wasting several hours
 
-## Disk Utility
+### Disk Utility
 
 This comes with a few downsides, but it actually gives you an exact copy of the original data.
 
-### Downsides
+#### Downsides
 
 * You can only copy from a disk or partition to another disk or partition.
 * The destination partition needs to be at least the same size of the original, probably a little bigger.
 * It's a little more complicated than simply dragging the `Backup.backupdb` folder to a new disk.
 
-### Upsides
+#### Upsides
 
 * Relatively quick.
 * The copy is the exact same size as the original.

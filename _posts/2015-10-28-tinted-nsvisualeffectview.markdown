@@ -9,7 +9,7 @@ I'm trying to change the tint of the `NSVisualEffectView`. This is what I've com
 
 ![Tintend visual effect view](https://raw.github.com/boyvanamstel/https://github.com/boyvanamstel/NSVisualEffectView-Tint/master/screenshots/tinted-visual-effect-view.png)
 
-## Tinting
+### Tinting
 
 1. Add a new `NSVisualEffectView` to your main window.
 2. Enable layer backing.
@@ -73,6 +73,6 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 }
 ```
 
-## Known Issues
+### Known Issues
 
 Changing the `material`from light to dark or vice versa removes the custom `backgroundColor`. Even if it's applied after changing the `material`.

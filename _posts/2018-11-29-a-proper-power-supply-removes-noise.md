@@ -32,7 +32,7 @@ I got two ['LEICKE Power Supply Charger 60W 12V 5A 5.5 * 2.5 mm'](http://www.lei
 
 ![Leicke 60W 12V 5A product photo](/assets/blog/leicke-12v-60w.jpg)
 
-## SEGA Mega Drive
+### SEGA Mega Drive
 
 The 16-bit console is a different story, sort of. There's no need to replace the internal power supply, but there's also an external power brick. My Japanese Mega Drive has an annoying humm when the screen is mostly dark. I blamed the SCART cable first, but even [the cable I got from retrogamingcables.co.uk](https://www.retrogamingcables.co.uk/sega/mega-drive-1/sega-mega-drive-1-sega-genesis-1-stereo-rgb-av-scart-cable-tv-lead) has the issue.
 
