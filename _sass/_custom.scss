@@ -121,3 +121,62 @@ div.highlight {
 .social-media-list {
   margin: 0;
 }
+
+.post-list > li {
+  &:not(:last-child) {
+    border-bottom: #e8e8e8 1px solid;
+  }
+
+  & > h3 {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.post-content {
+  p, img {
+    margin-bottom: 1.5em;
+  }
+  p img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  p img:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.flex-grid-thirds {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-grid-thirds .col {
+  width: 32%;
+}
+
+.pagination {
+  padding: 15px;
+  border: 1px #e8e8e8 solid;
+  border-radius: 5px;
+
+  p {
+    margin: 0;
+  }
+
+  div:nth-child(2) {
+    text-align: center;
+  }
+  div:last-child {
+    text-align: right;
+  }
+}
+
+.feed-subscribe {
+  text-align: right;
+
+  .svg-icon {
+    padding: 5px;
+  }
+}

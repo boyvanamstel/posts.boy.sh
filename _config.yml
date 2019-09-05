@@ -25,6 +25,13 @@ github_username: boyvanamstel
 #microdotblog_username: boyvanamstel
 #google_analytics: UA-7720147-29
 
+show_content: true
+
+pagination:
+  enabled: true
+  sort_reverse: true
+  permalink: "/page/:num"
+
 # Build settings
 markdown: kramdown
 kramdown:
@@ -40,6 +47,7 @@ plugins:
   - jekyll-assets
   - octopress-minify-html
   - jekyll-sitemap
+  - jekyll-paginate-v2
 include:
   - _redirects
 
@@ -73,3 +81,4 @@ minima:
     twitter: boyvanamstel
     github: boyvanamstel
     rss: true
+  date_format: "%-d %B %Y"

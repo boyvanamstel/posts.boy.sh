@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-assets"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
+  gem "jekyll-paginate-v2"
 end
 
 group :development do
