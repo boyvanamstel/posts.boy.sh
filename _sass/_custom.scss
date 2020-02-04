@@ -164,12 +164,12 @@ div.highlight {
 }
 
 .is {
-  &-dark {
-    background-color: #666 !important;
+  &-primary {
+    background-color: rgba(#2A7AE2,0.9) !important;
     color: #fff !important;
 
     &:hover {
-      background-color: #444 !important;
+      background-color: #2A7AE2 !important;
     }
   }
 }
