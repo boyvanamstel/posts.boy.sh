@@ -2,10 +2,6 @@ $app-color: #2A7AE2;
 $app-color-inverted: #fff;
 
 .app {
-  display: grid;
-  grid-template-columns: 1fr 128px;
-  grid-gap: 1rem;
-
   border: $app-color 1px solid;
   border-radius: 3px;
 
@@ -14,13 +10,26 @@ $app-color-inverted: #fff;
 
   background-image: linear-gradient(135deg, transparent 80%, rgba($app-color, 0.25) 80%, rgba($app-color, 0.25) 85%, rgba($app-color, 0.5) 85%, rgba($app-color, 0.5) 90%, rgba($app-color, 0.75) 90%, rgba($app-color, 0.75) 95%, transparent 95%);
 
-  &-content {
-    &-notice {
-      &__text { 
-        color: $app-color;
-        font-size: 0.7rem; 
-      }
+  &-notice {
+    &__text { 
+      color: $app-color;
+      font-size: 0.7rem; 
     }
+  }
+
+  &-icon { 
+    order: 2;
+    margin-bottom: 1rem; 
+    text-align: center;
+
+    &__image {
+      max-width: 128px;
+      display: inline;
+    }
+  }
+
+  &-content {
+    order: 1;
 
     &-header {
       margin-bottom: 0.5rem;
@@ -71,6 +80,12 @@ $app-color-inverted: #fff;
       }
     }
   }
+}
 
-  &-icon { margin-bottom: 0; }
+@media only screen and (min-width: 768px) {
+  .app-container {
+    display: grid;
+    grid-template-columns: 1fr 128px;
+    grid-gap: 1rem;
+  }
 }
