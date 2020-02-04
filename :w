@@ -1,0 +1,92 @@
+$app-color: #2A7AE2;
+$app-color-inverted: #fff;
+
+.app {
+  border-radius: 3px;
+
+  box-shadow: 0px 3px 6px rgba(black,0.5);
+
+  padding: 1rem;
+  margin-bottom: 2rem;
+
+
+  &-icon { 
+    margin-bottom: 1rem; 
+    text-align: center;
+
+    &__image {
+      max-width: 128px;
+      display: inline;
+    }
+  }
+
+  &-header {
+    line-height: 1rem;
+
+    margin: 0.5rem 0;
+
+    &__title { font-size: 1.5rem; }
+    &__subtitle { opacity: 0.5; }
+  }
+
+  &-body { 
+    *:last-child { margin-bottom: 0; }
+  }
+
+  &-actions {
+    &__button {
+      font-size: 1rem;
+
+      display: inline-block;
+
+      padding: 0.3rem 0.5rem;
+      margin-left: 0.5rem;
+      border-radius: 3px;
+      text-decoration: none;
+
+      &:hover,&:visited,&:active {
+        text-decoration: none;
+      }
+
+      &:first-child { margin-left: 0; }
+
+      &--primary {
+        color: $app-color-inverted;
+        background-color: rgba($app-color,0.9);
+
+        &:hover,&:visited,&:active { 
+          color: $app-color-inverted;
+          background-color: $app-color; 
+        }
+      }
+
+      &--text {
+        background-color: none;
+        color: rgba($app-color,0.8);
+
+        &:hover,&:visited,&:active { 
+          color: $app-color;
+          background-color: none;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .app-container {
+    display: grid;
+    grid-template-columns: 64px 1fr auto;
+    grid-gap: 1rem;
+  }
+  .app-body {
+    grid-column-start: 2;
+    grid-column-end: span 2;
+  }
+  .app-buttons {
+    align-self: right;
+  }
+  .app-icon__image {
+    max-width: 64px;
+  }
+}
