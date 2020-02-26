@@ -11,6 +11,9 @@ layout: default
     {{ content }}
   </div>
 
-  {% include app.html %}
+  {% unless page.noapps %}
+  {% assign app=site.data.apps | sample %}
+  {% include app.html app=app %}
+  {% endunless %}
 
 </article>

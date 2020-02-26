@@ -25,11 +25,12 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  {% include app.html %}
-
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+  {% assign app=site.data.apps | sample %}
+  {% include app.html app=app %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

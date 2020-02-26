@@ -7,7 +7,8 @@ layout: default
 
   {{ content }}
 
-  {% include app.html %}
+  {% assign app=site.data.apps | sample %}
+  {% include app.html app=app %}
 
   {%- if site.posts.size > 0 -%}
 
@@ -36,4 +37,7 @@ layout: default
   {%- include pagination.html -%}
 
   {%- endif %}
+
+  {% assign app=site.data.apps | sample %}
+  {% include app.html app=app %}
 </div>
