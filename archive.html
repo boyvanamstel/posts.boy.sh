@@ -3,22 +3,21 @@ layout: page
 title: Archive
 permalink: /archive/
 menu: true
-navigation: true
 ---
 
-<div class="h-feed">
-
-{% for post in site.posts %}
-	<p class="h-entry">
-		<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" class="u-url"><span class="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%Y-%m-%d" }}</span></a>:
-
-		{% if post.microblog == false %}
-			<span class="p-name"><b>{{ post.title }}</b></span> 
-			<span class="p-summary">{{ post.content | strip_html | truncatewords: 10 }}</span>
-		{% else %}
-			<span class="p-summary">{{ post.content | strip_html | truncatewords: 10 }}</span>
-		{% endif %}
-	</p>
-{% endfor %}
-
-</div>
+<ul class="post-list">
+  {%- for post in site.posts -%}
+  <li>
+    <h3 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ post.date | date: date_format }}
+      </time>
+    </p>
+    <div class="post-content">
+      {{ post.content | strip_html | truncatewords: 10 }}
+    </div>
+  </li>
+  {%- endfor -%}
+</ul>
