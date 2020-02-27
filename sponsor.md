@@ -4,6 +4,7 @@ title: Sponsor
 permalink: /sponsor/
 menu: true
 menu_title: Sponsor
+apps: [none, carbonize]
 ---
 
 GitHub entered me into their sponsored developers program! 

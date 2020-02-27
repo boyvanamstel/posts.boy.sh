@@ -5,6 +5,7 @@ date: 2019-10-12
 tags: [github,sponsoring]
 description: "DevMate will retire its service in December, so I setup redirects for my Sparkle update feeds."
 canonical_url: "https://shorts.boy.sh/2019/10/12/github-sponsored-developer"
+apps: [carbonize]
 ---
 
 GitHub entered me into their sponsored developers program! 

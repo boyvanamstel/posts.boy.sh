@@ -4,6 +4,7 @@ layout: post
 tags:
 - linux
 date: '2018-10-15 15:30:00'
+apps: [carbonize]
 ---
 
 Setting up your headless Linux machine to connect through a VPN is straightforward. Install OpenVPN and download the configuration provided by your VPN service. That's usually all there is to it.

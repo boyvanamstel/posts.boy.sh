@@ -6,4 +6,5 @@ layout: home
 pagination:
   enabled: true
   per_page: 5
+apps: [timeless, pipvid]
 ---

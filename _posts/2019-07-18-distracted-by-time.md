@@ -2,7 +2,7 @@
 layout: post
 title: Distracted by time
 date: 2019-07-18 9:00:00 +0200
-
+apps: [timeless]
 ---
 It’s widely accepted that there exists a state of mind that allows you to perform exceptionally. Most people call it ‘the zone’ or ‘flow’. Achieving it helps you to get things done almost effortlessly. It’s fragile though; a single distraction can break it.
 

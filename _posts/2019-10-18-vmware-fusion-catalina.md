@@ -4,6 +4,7 @@ title: "VMWare Fusion 10 on macOS Catalina"
 date: 2019-10-18
 tags: [virtualization]
 description: "Here's how to run VMWare Fusion 10 and 11 on macOS Catalina."
+apps: [carbonize]
 ---
 
 _This post is for those of us running an older version of VMWare Fusion on macOS Catalina. [VMWare Fusion 11.5](https://blogs.vmware.com/teamfusion/2019/09/vmware-fusion-11-5-available-now.html) supports macOS 10.15 out of the box._

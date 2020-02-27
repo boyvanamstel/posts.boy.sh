@@ -5,7 +5,7 @@ tags:
 - programming
 - macos
 date: '2018-04-30 15:58:00'
-
+apps: [carbonize]
 ---
 I'm used to installing and running my Ruby gems in user space with the help of [`rbenv`](https://github.com/rbenv/rbenv). I wasn't aware of a similar setup for Python, until today.
 

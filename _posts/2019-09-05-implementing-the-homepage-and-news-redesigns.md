@@ -5,6 +5,7 @@ date: 2019-09-05
 tags: [jekyll, liquid, bulma]
 description: "An in-depth look at implementing some design changes for dangercove.com. Involves Jekyll templating and Bulma CSS updates."
 canonical_url: "https://www.dangercove.com/news/implementing-the-homepage-and-news-redesigns/"
+apps: [carbonize]
 ---
 
 _This article originally appeared on [dangercove.com](https://www.dangercove.com/news/implementing-the-homepage-and-news-redesigns/)_

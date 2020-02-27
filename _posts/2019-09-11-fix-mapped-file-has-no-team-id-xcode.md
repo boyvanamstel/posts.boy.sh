@@ -4,6 +4,7 @@ title: Fix "mapped file has no Team ID and is not a platform binary" in Xcode 11
 date: 2019-09-11
 tags: [xcode]
 description: "A quick fix for when you receive an error after applying the Xcode 11 GM's preferred settings."
+apps: [carbonize]
 ---
 
 After applying the preferred project settings in Xcode 11 you might be confronted with the following error while loading a Library at runtime:

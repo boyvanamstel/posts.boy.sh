@@ -5,6 +5,7 @@ date: 2019-09-13
 tags: [xcode, infrastructure]
 description: "DevMate will retire its service in December, so I setup redirects for my Sparkle update feeds."
 canonical_url: "https://www.dangercove.com/news/migrating-away-from-devmate-sparkle/"
+apps: [carbonize]
 ---
 
 _Originally appeared on [dangercove.com](https://www.dangercove.com/news/migrating-away-from-devmate-sparkle/)_

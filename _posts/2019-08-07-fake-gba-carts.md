@@ -2,7 +2,7 @@
 layout: post
 title: Fake GBA carts
 date: 2019-08-07
-
+apps: [pipvid]
 ---
 I'm selling all my Game Boy Advance carts. While taking pictures I noticed two cartridges looking a little off. The logos on both Metroid Fusion (AGB-AMTP-EUR) and Final Fantasy VI Advance (AGB-BZ6P-EUR) seemed fuzzy.
 

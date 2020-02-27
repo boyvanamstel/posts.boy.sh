@@ -5,6 +5,7 @@ tags:
 - games
 - retro
 date: "2018-11-29 10:00:00"
+apps: [denied]
 ---
 
 I fitted my Japenese SEGA Saturn and Dreamcast with [a PicoPSU](https://tekeverything.com/what-is-a-pico-psu/). The [relatively simple operation](http://www.mmmonkey.co.uk/dreamcast-psu-using-picopsu/) replaces the 110V power supply with a much more flexible output that will take any third-party 12V 5A power supply with a 5.5mm/2.5mm barrel connector.

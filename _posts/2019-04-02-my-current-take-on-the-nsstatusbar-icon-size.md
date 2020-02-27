@@ -6,7 +6,7 @@ tags:
 - macos
 - design
 date: 2019-04-02 11:00:00 +0200
-
+apps: [carbonize]
 ---
 As far as I know, there's still no official Apple documentation on the `NSStatusBar` icon size. There are [a few](https://alastairs-place.net/blog/2013/07/23/nsstatusitem-what-size-should-your-icon-be/) [resources](https://www.soydemac.com/denied-nos-permite-evitar-las-canciones-o-cantantes-que-menos-nos-gustan-de-spotify-y-apple-music/) [and discussions](https://discussions.apple.com/thread/7729008) that mostly seem to agree on a few things:
 
