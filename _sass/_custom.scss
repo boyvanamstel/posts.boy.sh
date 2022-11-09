@@ -174,3 +174,17 @@ div.highlight {
     }
   }
 }
+
+em {
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 225, 0, 0.2),
+    rgba(255, 225, 0, 0.6) 4%,
+    rgba(255, 225, 0, 0.4)
+  );
+
+  pre, code {
+    background: rgba(238, 238, 255, 0.5);
+  }
+}
+
