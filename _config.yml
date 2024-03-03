@@ -30,7 +30,7 @@ show_content: true
 pagination:
   enabled: true
   sort_reverse: true
-  permalink: "/page/:num"
+  permalink: "/page/:num/"
 
 # Build settings
 markdown: kramdown
