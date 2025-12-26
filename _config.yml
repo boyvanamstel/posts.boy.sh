@@ -52,7 +52,6 @@ defaults:
 
 minima:
   social_links:
-    twitter: boyvanamstel
     github: boyvanamstel
     rss: true
   date_format: "%-d %B %Y"

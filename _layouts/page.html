@@ -7,15 +7,6 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  {% if page.apps[0] %}
-  {% assign app_name=page.apps[0] %}
-  {% else %}
-  {% assign app_name=site.data.apps.names | sample %}
-  {% endif %}
-
-  {% assign app=site.data.apps[app_name] %}
-  {% include app.html app=app %}
-
   <div class="post-content">
     {{ content }}
   </div>
