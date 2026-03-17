@@ -6,15 +6,15 @@ tags: [dumbphones, digital-minimalism, privacy]
 description: "I'm trying to move away from using my iPhone towards a Punkt MP02 or Mudita Kompakt."
 ---
 
-The iPhone 15 Pro I have takes gorgeous pictures and can access any part of my (digital) life whenever I want. It's also heavy and a distraction when I'm with my kids.
+My iPhone 15 Pro takes gorgeous pictures and can access any part of my (digital) life whenever I want. It's also heavy and a distraction when I'm with my kids.
 
-To minimize the negative aspects, I've disabled everything except the bare necessities with [Foqos](https://www.foqos.app). I haven't read a full news article for about a week. My AI Agent sends me the headlines every morning and that's it. I also block every search engine. It's barely worth picking up anymore. Now that the weight and size aren't set off by its usefulness it feels ridiculous to cary around.
+To minimize the negative aspects I've disabled everything except the bare necessities with [Foqos](https://www.foqos.app). I haven't read a full news article for about a week. My AI Agent sends me the headlines every morning and that's it. I also block every search engine. The phone is barely worth picking up anymore. Now that its weight and size aren't set off by its usefulness it feels ridiculous to carry around.
 
 That's why I've been on the hunt for an alternative phone. One that's small and basic but allows me to stay connected; it's impossible to be completely offline if you have kids.
 
 ## The Setup
 
-I'm currently running a [Punkt MP02](https://www.punkt.ch/products/mp02-4g-minimalist-phone) as my daily driver. It's a beautifully designed device that feels like a deliberate statement against modern smartphones.
+I'm currently running a [Punkt MP02](https://www.punkt.ch/products/mp02-4g-minimalist-phone) as my daily driver. It's beautifully designed and feels like a deliberate statement against modern smartphones.
 
 ![Punkt MP02](/assets/blog/dumbphones/punkt-mp02.webp)
 
@@ -39,4 +39,3 @@ I've ordered a [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompak
 ![Mudita Kompakt](/assets/blog/dumbphones/mudita-kompakt.webp)
 
 It's confronting how helpless it feels to walk around with a phone that doesn't offer much assistance when you're out and about. The Mudita provides a few extra lifelines: it has a map, a basic camera, flashlight and can even side-load some apps.
-
