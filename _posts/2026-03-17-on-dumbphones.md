@@ -18,9 +18,9 @@ I'm currently running a [Punkt MP02](https://www.punkt.ch/products/mp02-4g-minim
 
 ![Punkt MP02](/assets/blog/dumbphones/punkt-mp02.webp)
 
-Like any phone it can place calls and send text messages. It's one step above actual dumbphones in that it has 4G LTE, can tether that connection and offers its own implementation of Signal &mdash; called Pigeon.
+Like any phone it can place calls and send text messages. It's a step up from dumbphones in that it has 4G LTE, can tether that connection and offers its own implementation of Signal &mdash; called Pigeon.
 
-_The cheat code I've added is my Apple Watch. It works surprisingly well to leave the iPhone at home, enable tethering on the Punkt and use the Apple Watch for essential notifications and contactless payments_
+_What makes this setup work for me is adding my Apple Watch. I can leave the iPhone at home, enable tethering on the Punkt and use the Apple Watch for essential notifications and contactless payments._
 
 It's a compromise that feels liberating.
 
@@ -40,4 +40,4 @@ I've ordered a [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompak
 
 ![Mudita Kompakt](/assets/blog/dumbphones/mudita-kompakt.webp)
 
-It's confronting how helpless it feels to walk around with a phone that doesn't offer much assistance when you're out and about. The Mudita provides a few extra lifelines: it has a map, a basic camera, flashlight and can even side-load some apps.
+It's confronting how cumbersome it feels to walk around with a phone that doesn't offer much assistance when you're out and about. The Mudita provides a few extra lifelines: it has a map, a basic camera, flashlight and can even side-load some apps.
